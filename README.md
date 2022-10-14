@@ -2,7 +2,7 @@
 
 I am currently an undergraduate studying Computer Science at the University of Bath. I have interests in Machine Learning, Database Design and all mathematics even remotely related to computers as the underlying concepts have always intrigued me.
 
-Filler so that this file has changed.
+
 <!--
 **TimFoundATerminal/TimFoundATerminal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
