@@ -1,4 +1,6 @@
-### Hi there 👋
+### Lost? Well now you are here... 👋
+
+I am an undergradute currently studying at the univ
 
 <!--
 **TimFoundATerminal/TimFoundATerminal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
