@@ -1,5 +1,6 @@
-### Hi there 👋
+### Lost? Welome all the same
 
+I am an undergraduate currently studying at the 
 <!--
 **TimFoundATerminal/TimFoundATerminal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
