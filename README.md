@@ -2,7 +2,8 @@
 
 I am currently an undergraduate studying Computer Science at the University of Bath. I have interests in Machine Learning, Database Design and all mathematics even remotely related to computers as the underlying concepts have always intrigued me.
 
-
+Programming Experience:
+Python | Java | C | PHP
 <!--
 **TimFoundATerminal/TimFoundATerminal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
